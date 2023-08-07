@@ -13,15 +13,15 @@ However, every single program written in a high-level language must be interpret
 
 #Advantages and disadvantages of High-level-Programming
 
-It is programmer friendly language.
-High level language is less memory efficient.
-It is easy to understand.
-Debugging is easy.
-It is simple to maintain.
-It is portable.
-It can run on any platform.
-It needs compiler or interpreter for translation.
-It is used widely for programming.
+It is programmer friendly language\n.
+High level language is less memory efficient\n.
+It is easy to understand\n.
+Debugging is easy\n.
+It is simple to maintain\n.
+It is portable\n.
+It can run on any platform\n.
+It needs compiler or interpreter for translation\n.
+It is used widely for programming\n.
 
 
 #Python
