@@ -13,14 +13,15 @@ B. Resources
 8. Google
 
 C. Learning objectives
-	1. General:
-		Why Python programming is awesome
-		Whocreated Python
-		Who is Guido van Rossum
-		Where does the name 'Python' comde from
-		What is the Zen of Python
-		How to use thr Python interpreter 
-		How to print text and variables using print()
-		How to use strings
-		What are indexing and slicing in Python
-		What is the official Python coding style and show how to check your code with pycodestyle.
+
+1. General:
+	a. Why Python programming is awesome
+	b. Whocreated Python
+	c. Who is Guido van Rossum
+	d. Where does the name 'Python' comde from
+	e. What is the Zen of Python
+	f. How to use thr Python interpreter 
+	g. How to print text and variables using print()
+	h. How to use strings
+	i. What are indexing and slicing in Python
+	j. What is the official Python coding style and show how to check your code with pycodestyle.
